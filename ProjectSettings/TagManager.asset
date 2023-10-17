@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cow
+  - Crop
+  - Wheat
+  - Potato
+  - Biom
+  - Ground
+  - uiSystem
+  - springMap
+  - summerMap
+  - fallMap
+  - winterMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2031797575
+    locked: 0
+  - name: environment
+    uniqueID: 1021334705
+    locked: 0
+  - name: items
+    uniqueID: 2938278193
+    locked: 0
+  - name: player
+    uniqueID: 2963889819
+    locked: 0

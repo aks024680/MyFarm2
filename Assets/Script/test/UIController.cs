@@ -32,8 +32,8 @@ namespace MyFarm
                 {
                     case 0:
                         UITest.GetChild(0).gameObject.SetActive(false);
-                        UITest.GetChild(4).gameObject.SetActive(true);
-                        PanelValue = 4;
+                        UITest.GetChild(5).gameObject.SetActive(true);
+                        PanelValue = 5;
                         break;
                     case 1:
                         UITest.GetChild(1).gameObject.SetActive(false);
@@ -54,6 +54,11 @@ namespace MyFarm
                         UITest.GetChild(4).gameObject.SetActive(false);
                         UITest.GetChild(3).gameObject.SetActive(true);
                         PanelValue = 3;
+                        break;
+                    case 5:
+                        UITest.GetChild(5).gameObject.SetActive(false);
+                        UITest.GetChild(4).gameObject.SetActive(true);
+                        PanelValue = 4;
                         break;
                 }
             }
@@ -84,6 +89,11 @@ namespace MyFarm
                         break;
                     case 4:
                         UITest.GetChild(4).gameObject.SetActive(false);
+                        UITest.GetChild(5).gameObject.SetActive(true);
+                        PanelValue = 5;
+                        break;
+                    case 5:
+                        UITest.GetChild(5).gameObject.SetActive(false);
                         UITest.GetChild(0).gameObject.SetActive(true);
                         PanelValue = 0;
                         break;

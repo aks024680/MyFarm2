@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -103,6 +103,42 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -736,35 +772,35 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Basic Furniture_0: -1950708079
-      Basic Furniture_1: 1930432612
-      Basic Furniture_10: 2012141692
-      Basic Furniture_11: -145102577
-      Basic Furniture_12: -1681122371
-      Basic Furniture_13: 489833716
-      Basic Furniture_14: -194018716
-      Basic Furniture_15: -146271533
-      Basic Furniture_16: 1003110781
-      Basic Furniture_17: 910061213
-      Basic Furniture_18: 1236500514
-      Basic Furniture_19: 1372669628
-      Basic Furniture_2: -1687540463
-      Basic Furniture_20: 1425302558
-      Basic Furniture_21: -1332938236
-      Basic Furniture_22: -186333673
-      Basic Furniture_23: 647535055
       Basic Furniture_24: 35346507
-      Basic Furniture_25: -716507860
-      Basic Furniture_26: -862322379
-      Basic Furniture_27: -1022287575
-      Basic Furniture_28: -391918570
-      Basic Furniture_3: -1611353859
       Basic Furniture_4: -459229075
+      Basic Furniture_22: -186333673
+      Basic Furniture_3: -1611353859
+      Basic Furniture_17: 910061213
+      Basic Furniture_12: -1681122371
+      Basic Furniture_1: 1930432612
+      Basic Furniture_14: -194018716
+      Basic Furniture_11: -145102577
+      Basic Furniture_19: 1372669628
+      Basic Furniture_25: -716507860
+      Basic Furniture_13: 489833716
+      Basic Furniture_23: 647535055
+      Basic Furniture_26: -862322379
+      Basic Furniture_20: 1425302558
       Basic Furniture_5: -112498843
+      Basic Furniture_15: -146271533
+      Basic Furniture_28: -391918570
       Basic Furniture_6: 1933965725
+      Basic Furniture_27: -1022287575
+      Basic Furniture_18: 1236500514
+      Basic Furniture_16: 1003110781
       Basic Furniture_7: 2103204014
+      Basic Furniture_21: -1332938236
       Basic Furniture_8: -568352679
+      Basic Furniture_10: 2012141692
       Basic Furniture_9: -583963555
+      Basic Furniture_2: -1687540463
+      Basic Furniture_0: -1950708079
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

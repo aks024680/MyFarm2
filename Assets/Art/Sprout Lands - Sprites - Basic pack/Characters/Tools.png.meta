@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -103,6 +103,42 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -883,41 +919,41 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tools_0: 377527585
-      Tools_1: 1502706508
-      Tools_10: -1635233800
-      Tools_11: -2128062779
-      Tools_12: 66319930
-      Tools_13: 1719716829
-      Tools_14: -828159901
-      Tools_15: 1280050326
-      Tools_16: -966405301
-      Tools_17: -1310821336
-      Tools_18: 1012108884
-      Tools_19: 1394088194
-      Tools_2: -350272754
-      Tools_20: 322122241
-      Tools_21: 789176798
-      Tools_22: 1092578288
-      Tools_23: 1965325928
-      Tools_24: 419269310
-      Tools_25: -1873189304
-      Tools_26: 1795456413
-      Tools_27: -230452745
-      Tools_28: -1602759038
-      Tools_29: 866620759
-      Tools_3: 1093388675
-      Tools_30: 1543410013
-      Tools_31: -1002312465
-      Tools_32: -1449612109
-      Tools_33: -53285661
-      Tools_34: 1416490845
-      Tools_35: -1226401230
-      Tools_4: -1447000539
-      Tools_5: 31973849
-      Tools_6: 1712739608
-      Tools_7: -407251662
       Tools_8: -1911563881
+      Tools_24: 419269310
+      Tools_27: -230452745
+      Tools_33: -53285661
+      Tools_2: -350272754
+      Tools_3: 1093388675
+      Tools_6: 1712739608
+      Tools_34: 1416490845
+      Tools_5: 31973849
+      Tools_17: -1310821336
+      Tools_12: 66319930
+      Tools_4: -1447000539
+      Tools_14: -828159901
+      Tools_21: 789176798
+      Tools_13: 1719716829
+      Tools_7: -407251662
+      Tools_1: 1502706508
+      Tools_22: 1092578288
+      Tools_29: 866620759
+      Tools_20: 322122241
+      Tools_10: -1635233800
+      Tools_16: -966405301
+      Tools_30: 1543410013
+      Tools_19: 1394088194
+      Tools_31: -1002312465
+      Tools_11: -2128062779
+      Tools_25: -1873189304
+      Tools_35: -1226401230
+      Tools_28: -1602759038
+      Tools_18: 1012108884
+      Tools_26: 1795456413
+      Tools_0: 377527585
+      Tools_32: -1449612109
+      Tools_23: 1965325928
+      Tools_15: 1280050326
       Tools_9: -2139352460
   spritePackingTag: 
   pSDRemoveMatte: 0

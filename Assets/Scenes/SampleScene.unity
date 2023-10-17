@@ -2226,7 +2226,7 @@ GameObject:
   - component: {fileID: 8082048524126104356}
   m_Layer: 5
   m_Name: ShowSystemUI
-  m_TagString: Untagged
+  m_TagString: uiSystem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

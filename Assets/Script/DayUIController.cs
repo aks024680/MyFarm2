@@ -27,7 +27,7 @@ namespace MyFarm
         {
             GameObject timeSystem = GameObject.FindGameObjectWithTag("uiSystem");
             timeController = timeSystem.transform.GetChild(0).GetComponent<TimeController>();
-            print(timeController.name);
+            
 
             //節日
             //春季
@@ -48,7 +48,16 @@ namespace MyFarm
                     {
                         daySystemTest.Find(i.ToString()).GetChild(0).GetComponent<TextMeshProUGUI>().text = i.ToString() + "日";
                     }
-                }            
+                }   
+                foreach(Transform child in daySystemTest) {
+                    if (timeController.dayTime.ToString().Equals(child.name))
+                    {
+                        //變換顏色
+                        //圖片
+                        daySystemTest.Find(timeController.dayTime.ToString()).GetComponent<Image>().color = new Color();
+                        //文本顏色
+                    }
+                }
             }
 
             // 夏季

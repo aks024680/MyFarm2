@@ -9715,7 +9715,7 @@ GameObject:
   - component: {fileID: 2262414529781030298}
   - component: {fileID: 6231009242542361236}
   - component: {fileID: 2780243613449939250}
-  - component: {fileID: 3168423751582745084}
+  - component: {fileID: 5902798017662575097}
   m_Layer: 5
   m_Name: PanelDay
   m_TagString: Untagged
@@ -9835,7 +9835,7 @@ MonoBehaviour:
   m_Spacing: {x: 7, y: 7}
   m_Constraint: 0
   m_ConstraintCount: 2
---- !u!114 &3168423751582745084
+--- !u!114 &5902798017662575097
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10995,7 +10995,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &8949926921431029726
 RectTransform:
   m_ObjectHideFlags: 0

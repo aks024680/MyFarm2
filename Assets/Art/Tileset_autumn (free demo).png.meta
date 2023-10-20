@@ -401,6 +401,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2263,94 +2275,94 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tileset_autumn (free demo)_0: -7785919623701190450
-      Tileset_autumn (free demo)_1: 7635177928342068274
-      Tileset_autumn (free demo)_10: -2091014746402179270
-      Tileset_autumn (free demo)_11: -8532188593058690115
-      Tileset_autumn (free demo)_12: 7471960526961503604
-      Tileset_autumn (free demo)_13: 2094705905835501165
-      Tileset_autumn (free demo)_14: 7523925364807739043
+      Tileset_autumn (free demo)_64: 217470522359440804
+      Tileset_autumn (free demo)_22: -137008928463935318
+      Tileset_autumn (free demo)_84: -2194440572068671996
+      Tileset_autumn (free demo)_76: 6285894149122678759
+      Tileset_autumn (free demo)_25: -164032988589325007
       Tileset_autumn (free demo)_15: 840347003368396912
       Tileset_autumn (free demo)_16: 7610336680041250524
-      Tileset_autumn (free demo)_17: -120750288230682844
-      Tileset_autumn (free demo)_18: 7599991325021615608
-      Tileset_autumn (free demo)_19: 7755250385067743923
-      Tileset_autumn (free demo)_2: -3971070237557170652
-      Tileset_autumn (free demo)_20: -8644251368986824557
-      Tileset_autumn (free demo)_21: -962220777374186052
-      Tileset_autumn (free demo)_22: -137008928463935318
-      Tileset_autumn (free demo)_23: 1374390220303797291
-      Tileset_autumn (free demo)_24: 4144415861400775136
-      Tileset_autumn (free demo)_25: -164032988589325007
-      Tileset_autumn (free demo)_26: -3678174438058555871
-      Tileset_autumn (free demo)_27: -1754470085855382905
-      Tileset_autumn (free demo)_28: -6830890413724045530
-      Tileset_autumn (free demo)_29: -1890057324190749621
-      Tileset_autumn (free demo)_3: -3500299219886704082
-      Tileset_autumn (free demo)_30: -2970007370677632774
-      Tileset_autumn (free demo)_31: -2498567517467014044
-      Tileset_autumn (free demo)_32: 4417838170972939729
+      Tileset_autumn (free demo)_79: -4569488709440711697
+      Tileset_autumn (free demo)_85: 4099675030890471759
+      Tileset_autumn (free demo)_55: 3630369382434688380
       Tileset_autumn (free demo)_33: 7608934594596340267
-      Tileset_autumn (free demo)_34: 2269623148959034533
+      Tileset_autumn (free demo)_12: 7471960526961503604
+      Tileset_autumn (free demo)_83: 466445571760644563
+      Tileset_autumn (free demo)_26: -3678174438058555871
       Tileset_autumn (free demo)_35: 4733679961320205978
-      Tileset_autumn (free demo)_36: 2044472641362230775
-      Tileset_autumn (free demo)_37: 8775305356054295596
-      Tileset_autumn (free demo)_38: -4520381529606435701
-      Tileset_autumn (free demo)_39: 3630521316663812957
+      Tileset_autumn (free demo)_82: 4872375932422697828
+      Tileset_autumn (free demo)_69: 2495963800775604516
+      Tileset_autumn (free demo)_2: -3971070237557170652
+      Tileset_autumn (free demo)_17: -120750288230682844
+      Tileset_autumn (free demo)_28: -6830890413724045530
+      Tileset_autumn (free demo)_8: 1123444740294922460
+      Tileset_autumn (free demo)_11: -8532188593058690115
+      Tileset_autumn (free demo)_59: -4019889372214252269
+      Tileset_autumn (free demo)_9: -8348433680045936268
+      Tileset_autumn (free demo)_6: 3853908355460967131
+      Tileset_autumn (free demo)_0: -7785919623701190450
+      Tileset_autumn (free demo)_19: 7755250385067743923
+      Tileset_autumn (free demo)_34: 2269623148959034533
+      Tileset_autumn (free demo)_48: -5961122247105901930
       Tileset_autumn (free demo)_4: -2387089413952776975
-      Tileset_autumn (free demo)_40: -783897968685156354
-      Tileset_autumn (free demo)_41: 55638660902494093
-      Tileset_autumn (free demo)_42: -8472444611989423972
-      Tileset_autumn (free demo)_43: -7269348675218811560
+      Tileset_autumn (free demo)_50: 6252545018591868496
+      Tileset_autumn (free demo)_23: 1374390220303797291
+      Tileset_autumn (free demo)_29: -1890057324190749621
+      Tileset_autumn (free demo)_31: -2498567517467014044
+      Tileset_autumn (free demo)_1: 7635177928342068274
+      Tileset_autumn (free demo)_77: 5852317791885867167
+      Tileset_autumn (free demo)_52: 1603216854761979578
+      Tileset_autumn (free demo)_68: 3695327492659041637
+      Tileset_autumn (free demo)_86: -716322819598857515
+      Tileset_autumn (free demo)_37: 8775305356054295596
+      Tileset_autumn (free demo)_46: -6570055228486340558
+      Tileset_autumn (free demo)_27: -1754470085855382905
+      Tileset_autumn (free demo)_71: -4042591398091990339
       Tileset_autumn (free demo)_44: 712543951397800093
       Tileset_autumn (free demo)_45: 8712855904378255602
-      Tileset_autumn (free demo)_46: -6570055228486340558
-      Tileset_autumn (free demo)_47: 6845963761964325516
-      Tileset_autumn (free demo)_48: -5961122247105901930
-      Tileset_autumn (free demo)_49: -1526988374805775647
-      Tileset_autumn (free demo)_5: 4126239257824970972
-      Tileset_autumn (free demo)_50: 6252545018591868496
-      Tileset_autumn (free demo)_51: 1419154922461164731
-      Tileset_autumn (free demo)_52: 1603216854761979578
-      Tileset_autumn (free demo)_53: -1043405899096947239
-      Tileset_autumn (free demo)_54: -5252667952895871331
-      Tileset_autumn (free demo)_55: 3630369382434688380
-      Tileset_autumn (free demo)_56: -9022825258128286761
-      Tileset_autumn (free demo)_57: 4278610780004212558
-      Tileset_autumn (free demo)_58: 7297101944943345326
-      Tileset_autumn (free demo)_59: -4019889372214252269
-      Tileset_autumn (free demo)_6: 3853908355460967131
-      Tileset_autumn (free demo)_60: -4624092070416528416
-      Tileset_autumn (free demo)_61: 8285246935463049395
-      Tileset_autumn (free demo)_62: -3918685879898759617
-      Tileset_autumn (free demo)_63: -543235948890758967
-      Tileset_autumn (free demo)_64: 217470522359440804
-      Tileset_autumn (free demo)_65: -8131196015838219988
-      Tileset_autumn (free demo)_66: 9182916405748195487
-      Tileset_autumn (free demo)_67: 1893986323743646883
-      Tileset_autumn (free demo)_68: 3695327492659041637
-      Tileset_autumn (free demo)_69: 2495963800775604516
-      Tileset_autumn (free demo)_7: 1223651461721587001
-      Tileset_autumn (free demo)_70: 3846786039262892803
-      Tileset_autumn (free demo)_71: -4042591398091990339
-      Tileset_autumn (free demo)_72: 6012046227667190994
-      Tileset_autumn (free demo)_73: 448441422379225973
-      Tileset_autumn (free demo)_74: 7111469518556869337
-      Tileset_autumn (free demo)_75: -9157234830303357541
-      Tileset_autumn (free demo)_76: 6285894149122678759
-      Tileset_autumn (free demo)_77: 5852317791885867167
-      Tileset_autumn (free demo)_78: 1731387788717464096
-      Tileset_autumn (free demo)_79: -4569488709440711697
-      Tileset_autumn (free demo)_8: 1123444740294922460
-      Tileset_autumn (free demo)_80: -3689843579628400602
       Tileset_autumn (free demo)_81: 6680539980307020598
-      Tileset_autumn (free demo)_82: 4872375932422697828
-      Tileset_autumn (free demo)_83: 466445571760644563
-      Tileset_autumn (free demo)_84: -2194440572068671996
-      Tileset_autumn (free demo)_85: 4099675030890471759
-      Tileset_autumn (free demo)_86: -716322819598857515
+      Tileset_autumn (free demo)_53: -1043405899096947239
       Tileset_autumn (free demo)_87: 6409683128994171640
-      Tileset_autumn (free demo)_9: -8348433680045936268
+      Tileset_autumn (free demo)_75: -9157234830303357541
+      Tileset_autumn (free demo)_13: 2094705905835501165
+      Tileset_autumn (free demo)_74: 7111469518556869337
+      Tileset_autumn (free demo)_36: 2044472641362230775
+      Tileset_autumn (free demo)_7: 1223651461721587001
+      Tileset_autumn (free demo)_54: -5252667952895871331
+      Tileset_autumn (free demo)_42: -8472444611989423972
+      Tileset_autumn (free demo)_14: 7523925364807739043
+      Tileset_autumn (free demo)_62: -3918685879898759617
+      Tileset_autumn (free demo)_66: 9182916405748195487
+      Tileset_autumn (free demo)_47: 6845963761964325516
+      Tileset_autumn (free demo)_10: -2091014746402179270
+      Tileset_autumn (free demo)_72: 6012046227667190994
+      Tileset_autumn (free demo)_63: -543235948890758967
+      Tileset_autumn (free demo)_5: 4126239257824970972
+      Tileset_autumn (free demo)_57: 4278610780004212558
+      Tileset_autumn (free demo)_39: 3630521316663812957
+      Tileset_autumn (free demo)_58: 7297101944943345326
+      Tileset_autumn (free demo)_20: -8644251368986824557
+      Tileset_autumn (free demo)_51: 1419154922461164731
+      Tileset_autumn (free demo)_3: -3500299219886704082
+      Tileset_autumn (free demo)_30: -2970007370677632774
+      Tileset_autumn (free demo)_61: 8285246935463049395
+      Tileset_autumn (free demo)_73: 448441422379225973
+      Tileset_autumn (free demo)_24: 4144415861400775136
+      Tileset_autumn (free demo)_70: 3846786039262892803
+      Tileset_autumn (free demo)_21: -962220777374186052
+      Tileset_autumn (free demo)_67: 1893986323743646883
+      Tileset_autumn (free demo)_41: 55638660902494093
+      Tileset_autumn (free demo)_38: -4520381529606435701
+      Tileset_autumn (free demo)_43: -7269348675218811560
+      Tileset_autumn (free demo)_32: 4417838170972939729
+      Tileset_autumn (free demo)_40: -783897968685156354
+      Tileset_autumn (free demo)_56: -9022825258128286761
+      Tileset_autumn (free demo)_65: -8131196015838219988
+      Tileset_autumn (free demo)_78: 1731387788717464096
+      Tileset_autumn (free demo)_80: -3689843579628400602
+      Tileset_autumn (free demo)_60: -4624092070416528416
+      Tileset_autumn (free demo)_49: -1526988374805775647
+      Tileset_autumn (free demo)_18: 7599991325021615608
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

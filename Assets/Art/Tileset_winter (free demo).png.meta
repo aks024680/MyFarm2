@@ -500,6 +500,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3055,127 +3067,127 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tileset_winter (free demo)_0: 6136404111127550775
-      Tileset_winter (free demo)_1: 5421556887670349434
-      Tileset_winter (free demo)_10: -5594126366916921808
-      Tileset_winter (free demo)_100: 3904451257223900967
-      Tileset_winter (free demo)_101: 1154925267753062073
-      Tileset_winter (free demo)_102: 1014163570977656861
-      Tileset_winter (free demo)_103: 7831469038144483009
-      Tileset_winter (free demo)_104: -6940884426353808438
-      Tileset_winter (free demo)_105: 1928380642197499346
-      Tileset_winter (free demo)_106: -4746598829791260464
-      Tileset_winter (free demo)_107: 4813200930935157123
-      Tileset_winter (free demo)_108: 782194115620644639
-      Tileset_winter (free demo)_109: 7746088702502612386
-      Tileset_winter (free demo)_11: -2196433425196717534
-      Tileset_winter (free demo)_110: 7661363198144005251
-      Tileset_winter (free demo)_111: 3487430305535241899
-      Tileset_winter (free demo)_112: 2100272782561797201
-      Tileset_winter (free demo)_113: 5166964626248956592
-      Tileset_winter (free demo)_114: 7807569264310120400
-      Tileset_winter (free demo)_115: -2136792263363653476
-      Tileset_winter (free demo)_116: -7647348463342011862
-      Tileset_winter (free demo)_117: -3423123772043088318
-      Tileset_winter (free demo)_118: 3876704821837619591
-      Tileset_winter (free demo)_119: 8051060142545295593
-      Tileset_winter (free demo)_12: 4638328362453454248
-      Tileset_winter (free demo)_120: 8578532942692144566
-      Tileset_winter (free demo)_13: -3193556974929658800
-      Tileset_winter (free demo)_14: 6040266205832643922
-      Tileset_winter (free demo)_15: 8735143826590094005
-      Tileset_winter (free demo)_16: -9090547585265959196
-      Tileset_winter (free demo)_17: 5647847041191984876
-      Tileset_winter (free demo)_18: 7615318330130163115
-      Tileset_winter (free demo)_19: -9155073834841263458
-      Tileset_winter (free demo)_2: -6227289148504585908
-      Tileset_winter (free demo)_20: 4720269184618210247
-      Tileset_winter (free demo)_21: -5773418205403873006
-      Tileset_winter (free demo)_22: -707063529735960137
-      Tileset_winter (free demo)_23: 1520987522912096402
-      Tileset_winter (free demo)_24: -6570449099704649016
-      Tileset_winter (free demo)_25: 8756003494182719317
-      Tileset_winter (free demo)_26: 6141219108700399200
-      Tileset_winter (free demo)_27: -4069613911705403291
-      Tileset_winter (free demo)_28: -4201907471015396712
-      Tileset_winter (free demo)_29: -5899054623787870419
-      Tileset_winter (free demo)_3: 8369374706623085628
-      Tileset_winter (free demo)_30: 2354836085409390326
-      Tileset_winter (free demo)_31: -7323209793705072343
-      Tileset_winter (free demo)_32: -7918639908297654950
-      Tileset_winter (free demo)_33: -1699011152079078244
-      Tileset_winter (free demo)_34: -815525204803252570
-      Tileset_winter (free demo)_35: 1604351963509333496
-      Tileset_winter (free demo)_36: -5440617893121084545
-      Tileset_winter (free demo)_37: -7019384065409615360
-      Tileset_winter (free demo)_38: 1739456299742598459
-      Tileset_winter (free demo)_39: 4620589468519687862
-      Tileset_winter (free demo)_4: -2683005031612443569
-      Tileset_winter (free demo)_40: -7327060671510947488
-      Tileset_winter (free demo)_41: 6002449257145706891
-      Tileset_winter (free demo)_42: -8152921066133589732
-      Tileset_winter (free demo)_43: -1710865360256111660
-      Tileset_winter (free demo)_44: -1030086338840197871
-      Tileset_winter (free demo)_45: 2529249970803603597
-      Tileset_winter (free demo)_46: -1362657650389922312
-      Tileset_winter (free demo)_47: -9200148947011628098
-      Tileset_winter (free demo)_48: -6357098515396572958
-      Tileset_winter (free demo)_49: 5629157560267856418
-      Tileset_winter (free demo)_5: -6590661583385900154
-      Tileset_winter (free demo)_50: 3750494186427822410
-      Tileset_winter (free demo)_51: -2326427122023135869
-      Tileset_winter (free demo)_52: -2061077097082077238
-      Tileset_winter (free demo)_53: -3111541667342768594
-      Tileset_winter (free demo)_54: 3958494927735288791
-      Tileset_winter (free demo)_55: 5773331426826096792
-      Tileset_winter (free demo)_56: 1987156589989837297
-      Tileset_winter (free demo)_57: 3906621825672904081
-      Tileset_winter (free demo)_58: -8730254134116826136
-      Tileset_winter (free demo)_59: 5353501641928305446
-      Tileset_winter (free demo)_6: 9172495579737400545
-      Tileset_winter (free demo)_60: 8629793052311489436
-      Tileset_winter (free demo)_61: -6113350759284825289
-      Tileset_winter (free demo)_62: -7879494685259803719
-      Tileset_winter (free demo)_63: -2186431545879366718
-      Tileset_winter (free demo)_64: -3033971449440719653
-      Tileset_winter (free demo)_65: -1888521921103307777
-      Tileset_winter (free demo)_66: -4906669067632095168
-      Tileset_winter (free demo)_67: -8032544462671415581
-      Tileset_winter (free demo)_68: -8980254132814395196
-      Tileset_winter (free demo)_69: -3040994310792675578
-      Tileset_winter (free demo)_7: 6248375154032725007
-      Tileset_winter (free demo)_70: -1192604844748319466
-      Tileset_winter (free demo)_71: 7478628078319016297
-      Tileset_winter (free demo)_72: 2159905195435703556
-      Tileset_winter (free demo)_73: 4428259654568249549
-      Tileset_winter (free demo)_74: -4124053375103971011
-      Tileset_winter (free demo)_75: -1353248674746860181
-      Tileset_winter (free demo)_76: -8644624425301683972
-      Tileset_winter (free demo)_77: -6422363094314579166
-      Tileset_winter (free demo)_78: 6062468136427144819
-      Tileset_winter (free demo)_79: -8188663889608241078
-      Tileset_winter (free demo)_8: 4940640796355486847
-      Tileset_winter (free demo)_80: 5982405473962270662
-      Tileset_winter (free demo)_81: -3884082571256127598
-      Tileset_winter (free demo)_82: 2806539715223366686
-      Tileset_winter (free demo)_83: -6162728794538776709
       Tileset_winter (free demo)_84: 5061752158340366492
-      Tileset_winter (free demo)_85: -3928105806718706919
-      Tileset_winter (free demo)_86: 5023638164274459717
-      Tileset_winter (free demo)_87: 4341306992246175682
-      Tileset_winter (free demo)_88: 6618098752234261275
-      Tileset_winter (free demo)_89: -9052902237097214108
-      Tileset_winter (free demo)_9: 702716624196132199
-      Tileset_winter (free demo)_90: 5801778650699495463
-      Tileset_winter (free demo)_91: 4965373790498126604
-      Tileset_winter (free demo)_92: 8695148708041515519
       Tileset_winter (free demo)_93: -2695546551087108877
-      Tileset_winter (free demo)_94: -3769324333429357599
-      Tileset_winter (free demo)_95: -2217460060867599162
+      Tileset_winter (free demo)_49: 5629157560267856418
+      Tileset_winter (free demo)_102: 1014163570977656861
+      Tileset_winter (free demo)_2: -6227289148504585908
+      Tileset_winter (free demo)_23: 1520987522912096402
+      Tileset_winter (free demo)_83: -6162728794538776709
+      Tileset_winter (free demo)_109: 7746088702502612386
+      Tileset_winter (free demo)_14: 6040266205832643922
+      Tileset_winter (free demo)_91: 4965373790498126604
+      Tileset_winter (free demo)_117: -3423123772043088318
+      Tileset_winter (free demo)_22: -707063529735960137
+      Tileset_winter (free demo)_58: -8730254134116826136
+      Tileset_winter (free demo)_3: 8369374706623085628
+      Tileset_winter (free demo)_16: -9090547585265959196
+      Tileset_winter (free demo)_53: -3111541667342768594
+      Tileset_winter (free demo)_89: -9052902237097214108
+      Tileset_winter (free demo)_5: -6590661583385900154
+      Tileset_winter (free demo)_43: -1710865360256111660
+      Tileset_winter (free demo)_72: 2159905195435703556
+      Tileset_winter (free demo)_21: -5773418205403873006
+      Tileset_winter (free demo)_44: -1030086338840197871
+      Tileset_winter (free demo)_8: 4940640796355486847
+      Tileset_winter (free demo)_0: 6136404111127550775
+      Tileset_winter (free demo)_42: -8152921066133589732
+      Tileset_winter (free demo)_74: -4124053375103971011
+      Tileset_winter (free demo)_82: 2806539715223366686
+      Tileset_winter (free demo)_37: -7019384065409615360
+      Tileset_winter (free demo)_25: 8756003494182719317
+      Tileset_winter (free demo)_87: 4341306992246175682
+      Tileset_winter (free demo)_90: 5801778650699495463
+      Tileset_winter (free demo)_33: -1699011152079078244
+      Tileset_winter (free demo)_19: -9155073834841263458
+      Tileset_winter (free demo)_39: 4620589468519687862
+      Tileset_winter (free demo)_52: -2061077097082077238
       Tileset_winter (free demo)_96: -7995999226118295463
-      Tileset_winter (free demo)_97: -3866406506968571124
-      Tileset_winter (free demo)_98: -2534643343575347197
+      Tileset_winter (free demo)_101: 1154925267753062073
+      Tileset_winter (free demo)_100: 3904451257223900967
+      Tileset_winter (free demo)_47: -9200148947011628098
+      Tileset_winter (free demo)_69: -3040994310792675578
+      Tileset_winter (free demo)_115: -2136792263363653476
+      Tileset_winter (free demo)_34: -815525204803252570
+      Tileset_winter (free demo)_7: 6248375154032725007
+      Tileset_winter (free demo)_32: -7918639908297654950
+      Tileset_winter (free demo)_36: -5440617893121084545
+      Tileset_winter (free demo)_64: -3033971449440719653
+      Tileset_winter (free demo)_1: 5421556887670349434
+      Tileset_winter (free demo)_70: -1192604844748319466
+      Tileset_winter (free demo)_11: -2196433425196717534
+      Tileset_winter (free demo)_45: 2529249970803603597
+      Tileset_winter (free demo)_40: -7327060671510947488
+      Tileset_winter (free demo)_46: -1362657650389922312
+      Tileset_winter (free demo)_114: 7807569264310120400
+      Tileset_winter (free demo)_15: 8735143826590094005
+      Tileset_winter (free demo)_67: -8032544462671415581
       Tileset_winter (free demo)_99: 5916013133985572559
+      Tileset_winter (free demo)_56: 1987156589989837297
+      Tileset_winter (free demo)_108: 782194115620644639
+      Tileset_winter (free demo)_61: -6113350759284825289
+      Tileset_winter (free demo)_94: -3769324333429357599
+      Tileset_winter (free demo)_113: 5166964626248956592
+      Tileset_winter (free demo)_98: -2534643343575347197
+      Tileset_winter (free demo)_116: -7647348463342011862
+      Tileset_winter (free demo)_112: 2100272782561797201
+      Tileset_winter (free demo)_17: 5647847041191984876
+      Tileset_winter (free demo)_88: 6618098752234261275
+      Tileset_winter (free demo)_66: -4906669067632095168
+      Tileset_winter (free demo)_111: 3487430305535241899
+      Tileset_winter (free demo)_59: 5353501641928305446
+      Tileset_winter (free demo)_18: 7615318330130163115
+      Tileset_winter (free demo)_35: 1604351963509333496
+      Tileset_winter (free demo)_75: -1353248674746860181
+      Tileset_winter (free demo)_62: -7879494685259803719
+      Tileset_winter (free demo)_55: 5773331426826096792
+      Tileset_winter (free demo)_107: 4813200930935157123
+      Tileset_winter (free demo)_73: 4428259654568249549
+      Tileset_winter (free demo)_120: 8578532942692144566
+      Tileset_winter (free demo)_81: -3884082571256127598
+      Tileset_winter (free demo)_48: -6357098515396572958
+      Tileset_winter (free demo)_9: 702716624196132199
+      Tileset_winter (free demo)_26: 6141219108700399200
+      Tileset_winter (free demo)_85: -3928105806718706919
+      Tileset_winter (free demo)_63: -2186431545879366718
+      Tileset_winter (free demo)_77: -6422363094314579166
+      Tileset_winter (free demo)_80: 5982405473962270662
+      Tileset_winter (free demo)_29: -5899054623787870419
+      Tileset_winter (free demo)_51: -2326427122023135869
+      Tileset_winter (free demo)_110: 7661363198144005251
+      Tileset_winter (free demo)_30: 2354836085409390326
+      Tileset_winter (free demo)_60: 8629793052311489436
+      Tileset_winter (free demo)_41: 6002449257145706891
+      Tileset_winter (free demo)_76: -8644624425301683972
+      Tileset_winter (free demo)_65: -1888521921103307777
+      Tileset_winter (free demo)_95: -2217460060867599162
+      Tileset_winter (free demo)_50: 3750494186427822410
+      Tileset_winter (free demo)_4: -2683005031612443569
+      Tileset_winter (free demo)_12: 4638328362453454248
+      Tileset_winter (free demo)_92: 8695148708041515519
+      Tileset_winter (free demo)_78: 6062468136427144819
+      Tileset_winter (free demo)_86: 5023638164274459717
+      Tileset_winter (free demo)_71: 7478628078319016297
+      Tileset_winter (free demo)_106: -4746598829791260464
+      Tileset_winter (free demo)_68: -8980254132814395196
+      Tileset_winter (free demo)_28: -4201907471015396712
+      Tileset_winter (free demo)_57: 3906621825672904081
+      Tileset_winter (free demo)_79: -8188663889608241078
+      Tileset_winter (free demo)_24: -6570449099704649016
+      Tileset_winter (free demo)_119: 8051060142545295593
+      Tileset_winter (free demo)_54: 3958494927735288791
+      Tileset_winter (free demo)_97: -3866406506968571124
+      Tileset_winter (free demo)_31: -7323209793705072343
+      Tileset_winter (free demo)_103: 7831469038144483009
+      Tileset_winter (free demo)_105: 1928380642197499346
+      Tileset_winter (free demo)_6: 9172495579737400545
+      Tileset_winter (free demo)_10: -5594126366916921808
+      Tileset_winter (free demo)_13: -3193556974929658800
+      Tileset_winter (free demo)_20: 4720269184618210247
+      Tileset_winter (free demo)_104: -6940884426353808438
+      Tileset_winter (free demo)_118: 3876704821837619591
+      Tileset_winter (free demo)_38: 1739456299742598459
+      Tileset_winter (free demo)_27: -4069613911705403291
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

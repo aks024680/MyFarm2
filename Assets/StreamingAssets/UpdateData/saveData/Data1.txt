@@ -1,0 +1,3 @@
+{"speed":200.0,"baseSpeed":200.0,"currentHealth":100.0,"currentHunger":82.0,"currentEndurance":100.0,"playerState":1,"level":1,"fishingLevel":1,"farmingLevel":1,"fieldLevel":1,"digLevel":1,"currentPlayerExp":0,"currentFishExp":0,"currentFarmExp":0,"currentFieldExp":0,"currentDigExp":0,"currentSceneName":"fishingMap","playerX":0.0,"playerY":0.0,"playerZ":0.0,"dataName":"存档1","dataSaveTime":"2022年08月13日 16:20:41"}
+
+{"showMinute":9,"showSeconds":31,"seasonTime":1}

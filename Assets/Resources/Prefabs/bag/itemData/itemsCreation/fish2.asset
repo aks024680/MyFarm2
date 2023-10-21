@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 563314fcb51cec74994c5d543f36e8f7, type: 3}
+  m_Name: fish2
+  m_EditorClassIdentifier: 
+  itemName: "\u8349\u9C7C"
+  itemImage: {fileID: -3942773106447406092, guid: 50d161b7589ec654694fe57cc1b96fd1, type: 3}
+  itemNumber: 1
+  price: 50
+  health: 0
+  hunger: 10
+  itemScription: "\u8FD9\u662F\u8349\u9C7C"
+  isAddFishing: 1
+  Exp: 20
+  equip: 1
+  cumulative: 1
+  use: 1
+  npcFavorNumber: 5

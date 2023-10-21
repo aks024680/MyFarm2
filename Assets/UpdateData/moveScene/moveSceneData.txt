@@ -1,0 +1,3 @@
+{"speed":400.0,"currentHealth":100.0,"currentHunger":97.0,"currentEndurance":40.0,"playerState":1,"level":1,"fishingLevel":1,"farmingLevel":1,"fieldLevel":1,"digLevel":1,"currentPlayerExp":0,"currentFishExp":0,"currentFarmExp":0,"currentFieldExp":0,"currentDigExp":0,"beforeSceneName":"town"}
+
+{"showMinute":8,"showSeconds":15,"seasonTime":1}

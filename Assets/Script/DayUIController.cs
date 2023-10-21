@@ -56,6 +56,16 @@ namespace MyFarm
                         //圖片
                         daySystemTest.Find(timeController.dayTime.ToString()).GetComponent<Image>().color = new Color();
                         //文本顏色
+                        daySystemTest.Find(timeController.dayTime.ToString()).GetChild(0).GetComponent<TextMeshProUGUI>().color = new Color();
+                    }
+                    else
+                    {
+                        //恢復原本顏色
+                        //圖片
+                        child.GetComponent<Image>().color = new Color();
+
+                        //文本
+                        child.GetChild(0).GetComponent<Text>().color = new Color();
                     }
                 }
             }

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8028674832360290176}
   - component: {fileID: 8028674832360290181}
   - component: {fileID: 8028674832360290180}
+  - component: {fileID: 510439786673694315}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -154,3 +155,47 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.11126202, y: 0.123279236}
   m_EdgeRadius: 0
+--- !u!114 &510439786673694315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8028674832360290206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a367bbc416a4edf4c879ff7ea54707ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerVector2: {x: 0, y: 0}
+  speed: 200
+  baseSpeed: 0
+  maxHealth: 100
+  currentHealth: 100
+  maxHunger: 100
+  currentHunger: 100
+  maxEndurance: 100
+  currentEndurance: 100
+  playerState: 1
+  level: 1
+  fishingLevel: 1
+  farmingLevel: 1
+  fieldLevel: 1
+  digLevel: 1
+  maxLevel: 20
+  maxFishingLevel: 30
+  maxFarmingLevel: 30
+  maxFieldLevel: 30
+  maxDigLevel: 30
+  currentPlayerExp: 0
+  maxPlayerExp: 0
+  currentFishExp: 0
+  maxFishExp: 0
+  currentFarmExp: 0
+  maxFarmExp: 0
+  currentFieldExp: 0
+  maxFieldExp: 0
+  currentDigExp: 0
+  maxDigExp: 0
+  enduranceReduceTime: 0
+  enduranceRecoverTime: 0
